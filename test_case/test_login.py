@@ -35,6 +35,10 @@ class TestBatchDeclare:
 
 
 
+
+
+
+
 if __name__ == '__main__':
 
     pytest.main(['-sv',f"{file_name}.py",'--alluredir=./allure/allure_json','--clean-alluredir'])
