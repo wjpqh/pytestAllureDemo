@@ -1,0 +1,5 @@
+pandas~=2.3.3
+SQLAlchemy~=2.0.44
+allure-python-commons~=2.15.2
+pytest~=9.0.1
+loguru~=0.7.3
